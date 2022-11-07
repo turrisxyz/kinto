@@ -17,7 +17,7 @@ python-memcached==1.59
 raven==6.10.0
 requests==2.27.1
 SQLAlchemy==1.4.35
-statsd==3.3.0
+statsd==4.0.1
 transaction==3.0.1
 python-rapidjson==1.6
 waitress==2.1.1
